@@ -1,2 +1,2 @@
 # test
-laser protocl
+laser protocol
